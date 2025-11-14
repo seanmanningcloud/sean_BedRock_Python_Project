@@ -2,7 +2,7 @@ name: Beta Prompt Pipeline
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   beta-build:
