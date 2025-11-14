@@ -2,7 +2,7 @@ name: Prod Prompt Pipeline
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   prod-build:
