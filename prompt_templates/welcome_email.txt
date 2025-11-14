@@ -1,0 +1,9 @@
+Write a friendly welcome email.
+
+Student: {{ student_name }}
+Course: {{ course_name }}
+Onboarding link: {{ onboarding_link }}
+
+Include:
+- 3 tips for success
+- Supportive tone
