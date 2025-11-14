@@ -5,7 +5,7 @@
   "max_tokens": 500,
   "variables": {
     "student_name": "Jordan",
-    "course_name": "Intro to Automation",
+    "course_name": "Intro to Automation with Pixel Learning",
     "onboarding_link": "https://pixel-learning.example.com/start"
   }
 }
