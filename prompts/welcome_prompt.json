@@ -1,10 +1,10 @@
 {
-  "slug": "welcome_jordan",
+  "slug": "welcome_sean",
   "template": "welcome_email.txt",
   "output_format": "html",
   "max_tokens": 500,
   "variables": {
-    "student_name": "Jordan",
+    "student_name": "Sean",
     "course_name": "Intro to Automation with Pixel Learning Plateform",
     "onboarding_link": "https://pixel-learning.example.com/start"
   }
